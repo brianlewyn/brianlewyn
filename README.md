@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brayan Mejía Mora</h1>
 <h3 align="center">There really isn't much to tell, I'm just an 18 year old who has been studying web development for less than 6 months. What I can tell you is that I am a young man who is very passionate about the world of backend development.</h3>
 
-- 🔭 I’m currently working on **my package that makes derivatives with GO**
+- 🔭 I’m currently working on **my package that makes derivatives with GO.**
 
-- 🌱 I’m currently learning **databases with JS and GO**
+- 🌱 I’m currently learning **databases with JS and GO.**
 
-- 💬 Ask me about **GO**
+- 💬 Ask me about **GO.**
 
 - 📫 How to reach me **brianmejmor@gmail.com**
 
